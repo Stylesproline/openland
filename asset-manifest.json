@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/openland/static/css/main.ff873095.chunk.css",
+    "main.js": "/openland/static/js/main.3fd71e17.chunk.js",
+    "main.js.map": "/openland/static/js/main.3fd71e17.chunk.js.map",
+    "runtime-main.js": "/openland/static/js/runtime-main.a592a6f1.js",
+    "runtime-main.js.map": "/openland/static/js/runtime-main.a592a6f1.js.map",
+    "static/js/2.27505fc1.chunk.js": "/openland/static/js/2.27505fc1.chunk.js",
+    "static/js/2.27505fc1.chunk.js.map": "/openland/static/js/2.27505fc1.chunk.js.map",
+    "index.html": "/openland/index.html",
+    "precache-manifest.2dc495555676938fe4c1d7a48f3f49c8.js": "/openland/precache-manifest.2dc495555676938fe4c1d7a48f3f49c8.js",
+    "service-worker.js": "/openland/service-worker.js",
+    "static/css/main.ff873095.chunk.css.map": "/openland/static/css/main.ff873095.chunk.css.map",
+    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/openland/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/openland/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/openland/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/openland/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/openland/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/openland/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/openland/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/openland/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/openland/static/media/features-split-image-01.5399948c.png",
+    "static/media/features-split-image-02.png": "/openland/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/openland/static/media/features-split-image-03.0c4d292b.png",
+    "static/media/logo.svg": "/openland/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/openland/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a592a6f1.js",
+    "static/js/2.27505fc1.chunk.js",
+    "static/css/main.ff873095.chunk.css",
+    "static/js/main.3fd71e17.chunk.js"
+  ]
+}
